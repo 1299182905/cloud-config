@@ -16,5 +16,5 @@ eureka:
     service-url:
       defaultZone:  http://localhost:7001/eureka
 config:
-  info: dev
+  info: dev1
 
